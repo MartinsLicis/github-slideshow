@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Martins Licis is the best of the best
 Use the left arrow to go back!
